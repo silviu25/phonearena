@@ -1,0 +1,1 @@
+Tries to scrap specs on a Samsung cell phone model currently.
