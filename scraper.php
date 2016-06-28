@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
      $url = 'http://www.phonearena.com/phones/Samsung-Infuse-4G_id5119/fullspecs';
      $html = scraperwiki::scrape($url);  
      require 'scraperwiki/simple_html_dom.php';
